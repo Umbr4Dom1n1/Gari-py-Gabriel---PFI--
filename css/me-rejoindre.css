@@ -1,0 +1,9 @@
+body {
+    background-image: radial-gradient(red, crimson, black)
+}
+
+.mail_and_github {
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+}

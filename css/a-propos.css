@@ -1,0 +1,23 @@
+body {
+    background-image: radial-gradient(red, crimson, black)
+}
+
+.revan {
+    width: 450px;
+    height: 450px;
+    border-radius: 12.5%;
+    border: 5px solid darkred;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nom {
+    font-size: 85px;
+    text-align: center;
+}
+
+.surnom {
+    font-size: 20px;
+    text-align: center;
+}
